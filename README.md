@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Akshat
+- 👀 I’m interested in mobile frontend development
+- 🌱 I’m currently puruing excellence in React Native framework.
+- 📫 akshatkakul@gmail.com
